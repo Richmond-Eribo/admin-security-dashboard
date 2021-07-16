@@ -15,7 +15,7 @@ const Recruiters = [
     arrow: 'up',
   },
   {
-    name: 'OTG GENERATED',
+    name: 'OTP GENERATED',
     number: '15',
     arrow: 'up',
   },

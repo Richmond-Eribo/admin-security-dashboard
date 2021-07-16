@@ -28,7 +28,7 @@ export default function Heading() {
           </div>
 
           <Image
-            src='/svg/menu.svg'
+            src='/svg/questionmark.svg'
             className='pixel'
             height='16'
             width='16'
